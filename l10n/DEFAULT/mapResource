@@ -1,0 +1,14 @@
+mapResource = 
+{
+    ["ResKey_Action_6"] = "mist_4_4_90.lua",
+    ["ResKey_Action_29"] = "CSC-Domination-UnBlockSlots-Sochi-v0.12.lua",
+    ["ResKey_Action_34"] = "CSC-Domination-UnBlockSlots-Anapa-v0.18.lua",
+    ["ResKey_Action_7"] = "Moose.lua",
+    ["ResKey_Action_12"] = "CSC-Domination-Reapers-v0.36.lua",
+    ["ResKey_Action_8"] = "CTLD.lua",
+    ["ResKey_Action_33"] = "CSC-Domination-UnBlockSlots-Mineralnye-v0.27.lua",
+    ["ResKey_Action_28"] = "CSC-Domination-BlockSlots-v0.36.lua",
+    ["ResKey_Action_30"] = "CSC-Domination-Support-v0.33.lua",
+    ["ResKey_Action_32"] = "CSC-Domination-RedA2A-v0.36.lua",
+    ["ResKey_Action_11"] = "CSC-Domination-AutoLase-v0.36.lua",
+} -- end of mapResource

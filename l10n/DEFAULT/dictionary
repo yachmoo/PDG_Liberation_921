@@ -1,0 +1,35 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "Good Job!  Kutaisi has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_24"] = "Good Job!  Tblisi-Lochini has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_18"] = "Good Job!  Kyrmsk has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_25"] = "Good Job!  Vaziani has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_13"] = "Good Job!  Gudauta has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_39"] = "",
+    ["DictKey_ActionText_36"] = "***COALITION ALERT: Sochi-Adler has been captured.  Blue Airframes at this base are not unblocked!",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_ActionText_16"] = "Good Job!  Novorossysk has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_19"] = "Good Job!  Krasnodar Center has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_14"] = "Good Job!  Sukhumi-Babushara has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_9"] = "Good Job!  Senaki-Kolki has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_23"] = "Good Job!  Mozdok has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_15"] = "Good Job!  Gelendzhik has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_descriptionText_1"] = "\
+\
+CVN-71 USS Theordore Roosevelt:\
+   -TACAN 3x\
+   -ISLS 9",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_20"] = "Good Job!  Krasnodar Pashkovsky has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_31"] = "SA-10 SAM launchers at Mineralnye-Vodi has been destroyed, Reaper is coming on station!",
+    ["DictKey_ActionText_21"] = "Good Job!  Maykop-Khanskaya has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_22"] = "***COALLITION ALERT***  Mineralnye-Vody has been captured by the Blue Coalition.  Addtional Airplanes are available for use at this base!",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_17"] = "***COALLITION ALERT***  Anapa-Vityazevo has been captured by the Blue Coalition.  Addtional Airplanes are available for use at this base!",
+    ["DictKey_ActionText_26"] = "Good Job!  Batumi has been captured by the Coalition.  Go kick some ass at the next base!",
+    ["DictKey_ActionText_27"] = "***COALLITION ALERT***  Sochi-Adler has been captured by the Blue Coalition.  Addtional Airplanes are available for flight at this base!",
+    ["DictKey_ActionText_35"] = "***COALITION ALERT:  There is a Convoy attempting to escape the attack on Anapa.  Intel indicates they are carrying a Tactical Nuclear  weapon.  Locate the Convoy and destroy it.",
+    ["DictKey_ActionText_37"] = "SA-10 SAM launchers at Anapa-Vityazevo have been destroyed, Reaper is coming on station!",
+    ["DictKey_ActionText_38"] = "",
+} -- end of dictionary
